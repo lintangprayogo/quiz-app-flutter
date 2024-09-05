@@ -21,5 +21,5 @@ Aplikasi kuis Flutter ini dirancang dengan menggunakan arsitektur BLoC dan Clean
 
 1. **Clone repository:**
    ```bash
-   git clone [[https://www.konsistensi.com/2014/03/mengatasi-angkettidak-valid.html](https://github.com/lintangprayogo/quiz-app-flutter/edit/main/README.md)]  
+   git clone [https://github.com/lintangprayogo/quiz-app-flutter/edit/main/README.md](https://github.com/lintangprayogo/quiz-app-flutter/edit/main/README.md)  
 # quiz-app-flutter
