@@ -13,7 +13,9 @@ Aplikasi kuis Flutter ini dirancang dengan menggunakan arsitektur BLoC dan Clean
   * Jawaban yang benar
   * Skor akhir
 * **Antarmuka Pengguna yang Intuitif:** Desain UI yang sederhana dan mudah digunakan.
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=Lw7D7MuoJJA" frameborder="0" allowfullscreen></iframe>
+[![Now in Android: 55]          // Title
+(https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg)] // Thumbnail
+(https://www.youtube.com/watch?v=Hc79sDi3f0U "Now in Android: 55")
 * **Pengelolaan State dengan BLoC:** BLoC digunakan untuk mengelola state aplikasi secara efisien.
 * **Arsitektur Clean Architecture:** Memastikan kode terorganisir dan mudah dipelihara.
 
